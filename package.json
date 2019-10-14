@@ -1,0 +1,17 @@
+{
+  "name": "echarts-demo",
+  "version": "0.0.1",
+  "main": "index.html",
+  "author": "WYX",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx parcel index.html --no-cache"
+  },
+  "dependencies": {
+    "echarts": "^4.3.0",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}

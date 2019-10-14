@@ -1,0 +1,103 @@
+{
+    "total": 48,
+    "data": {
+        "list": [
+            {
+                "rank": 1,
+                "name": "李艺彤",
+                "team": "Team HII",
+                "votes": 1483041.5
+            },
+            {
+                "rank": 2,
+                "name": "莫寒",
+                "team": "Team SII",
+                "votes": 1222641
+            },
+            {
+                "rank": 3,
+                "name": "段艺璇",
+                "team": "Team B",
+                "votes": 1157528
+            },
+            {
+                "rank": 4,
+                "name": "张语格",
+                "team": "Team SII",
+                "votes": 965200
+            },
+            {
+                "rank": 5,
+                "name": "吴哲晗",
+                "team": "Team SII",
+                "votes": 898753
+            },
+            {
+                "rank": 6,
+                "name": "孔肖吟",
+                "team": "Team SII",
+                "votes": 856471
+            },
+            {
+                "rank": 7,
+                "name": "许佳琪",
+                "team": "Team SII",
+                "votes": 839586
+            },
+            {
+                "rank": 8,
+                "name": "宋昕冉",
+                "team": "Team X",
+                "votes": 748662
+            },
+            {
+                "rank": 9,
+                "name": "戴萌",
+                "team": "Team SII",
+                "votes": 710591.5
+            },
+            {
+                "rank": 10,
+                "name": "陈珂",
+                "team": "Team G",
+                "votes": 660218
+            },
+            {
+                "rank": 11,
+                "name": "唐莉佳",
+                "team": "Team NIII",
+                "votes": 637152
+            },
+            {
+                "rank": 12,
+                "name": "刘力菲",
+                "team": "Team NIII",
+                "votes": 579893
+            },
+            {
+                "rank": 13,
+                "name": "孙芮",
+                "team": "Team SII",
+                "votes": 571978
+            },
+            {
+                "rank": 14,
+                "name": "苏杉杉",
+                "team": "Team E",
+                "votes": 536758
+            },
+            {
+                "rank": 15,
+                "name": "费沁源",
+                "team": "Team HII",
+                "votes": 526808
+            },
+            {
+                "rank": 16,
+                "name": "沈梦瑶",
+                "team": "Team HII",
+                "votes": 521075
+            }
+        ]
+    }
+}
