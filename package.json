@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "echarts": "^4.3.0",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "parcel": "^1.12.4"
